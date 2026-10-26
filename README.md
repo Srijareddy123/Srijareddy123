@@ -6,7 +6,7 @@ I'm an AI engineer with 3+ years of work on retrieval-augmented generation, docu
 
 ## AI Engineering
 
-- [filing-citations](https://github.com/Srijareddy123/filing-citations): question answering over SEC filings that quotes the filing, section and page or refuses; 128-question golden set, and with a local 1.5B model the best setup reached 0.63 citation precision and 0.66 refusal accuracy.
+- [filing-citations](https://github.com/Srijareddy123/filing-citations): question answering over SEC filings that quotes the filing, section and page or refuses; 128-question golden set, with a local 1.5B model, citation precision reached 0.63 and refusal accuracy 0.66 (in different configurations).
 - [rag-document-pipeline](https://github.com/Srijareddy123/rag-document-pipeline): RAG ingestion with document quality checks; load tested on 49,499 Wikipedia articles (125,136 chunks in 11.6 minutes, 11.9 ms median query).
 
 ## ML and Data Science
